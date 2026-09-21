@@ -12,7 +12,7 @@ let membershiptype :mymembership = mymembership.diamond,silver,gold,regular;
 //change membershiptype = mymembership.gold;
 
 console.log(customername = customername)
-let productCode: unknown = "SW101";
+let productCode: unknown = "SW101"; // unknown type variable
 let codeLength = (productCode as string).length;
 
 let category: string = "fan";
