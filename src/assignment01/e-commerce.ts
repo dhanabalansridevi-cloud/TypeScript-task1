@@ -9,7 +9,7 @@ enum mymembership {
     regular = "regular"
 }
 let membershiptype :mymembership = mymembership.diamond,silver,gold,regular;
-
+//change membershiptype = mymembership.gold;
 
 console.log(customername = customername)
 let productCode: unknown = "SW101";
@@ -235,4 +235,4 @@ Subtotal: {subtotal}
 Discount: {discountAmount}
 GST: {gst}
 Delivery: {deliveryCharge}
-Final Amount: {finalAmount + deliveryCharge});
+Final Amount: {finalAmount + deliveryCharge})
